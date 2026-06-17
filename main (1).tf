@@ -4,7 +4,7 @@ provider "aws" {
 
 resource "aws_key_pair" "mykey" {
   key_name   = "mykey"
-  public_key = file("C:/Users/Arusa/.ssh/mykey.pub")
+  public_key = file("C:/Users/Kosa/.ssh/mykey.pub")
 }
 
 resource "aws_vpc" "main" {
