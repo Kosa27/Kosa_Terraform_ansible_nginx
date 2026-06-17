@@ -1,5 +1,5 @@
 ---
-# Auteur : RAVEENDRAKUMAR ARUSAN
+# Auteur : KULARAJASINGAM KOSAKAN
 # Playbook : Installation de Nginx + Déploiement d'une page web
 # Système : Amazon Linux 2
 
@@ -36,6 +36,6 @@
           <body>
           <h1>Bienvenue sur mon site web déployé avec Ansible !</h1>
           <p>Amazon Linux 2 + Ansible + Nginx = ❤️</p>
-          <p>Auteur : RAVEENDRAKUMAR ARUSAN</p>
+          <p>Auteur : KULARAJASINGAM KOSAKAN</p>
           </body>
           </html>
