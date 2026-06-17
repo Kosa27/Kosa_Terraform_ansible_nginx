@@ -63,4 +63,4 @@ Une capture d’écran du site est disponible dans le fichier **site web.png**.
 
 ## Auteur
 
-Projet réalisé par **RAVEENDRAKUMAR ARUSAN** dans le cadre d’un TP sur l’automatisation et le déploiment.
+Projet réalisé par **KULARAJASINGAM KOSAKAN** dans le cadre d’un TP sur l’automatisation et le déploiment.
